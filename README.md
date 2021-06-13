@@ -23,27 +23,32 @@ numpy, matplotlib, seaborn, wordcloud, geopandas, shapely,pltoly express
 
 # Key Findings 
 ## Individuals:
-
-![image info](./image/individual.png)
-
+<p align="center">
+  <img width="700" height="600" src="./image/individual_copy.png">
+<!-- ![image info](./image/individual_copy.png) -->
+</p>
 Jeff Bezos is the richest among the list, standing at USD $177B. 
 
 
 ## Countries:
-
-![image info](./image/country.png)
-
+<p align="center">
+  <img width="700" height="400" src="./image/country.png">
+<!-- ![image info](./image/country.png) -->
+</p>
 United States has the largest total amount of networths among all the billionaires. China comes next and Germany, India, Russia trail closely behind. 
 
 ## Industry
-
-![image info](./image/wordcloud_industry.png)
+<p align="center">
+    <img width="700" height="400" src="./image/wordcloud_industry.png">
+</p>
 
 Real Estate, Pharmaceuticals and Investments are the industries to consider venturing into, if you ever wish to get lucky into the Forbes list. 
 
 ## Education
 
-![image info](./image/education.png)
+<p align="center">
+    <img width="700" height="400" src="./image/education.png">
+</p>
 
 Many billionaires studied Arts, Science, Business in universities back then. Some did not have university degrees too. 
 
