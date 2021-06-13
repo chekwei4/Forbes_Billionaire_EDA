@@ -24,28 +24,30 @@ numpy, matplotlib, seaborn, wordcloud, geopandas, shapely,pltoly express
 # Key Findings 
 ## Individuals:
 
-< insert image >
+![image info](./image/individual.png)
 
 Jeff Bezos is the richest among the list, standing at USD $177B. 
 
 
 ## Countries:
 
-< insert image >
+![image info](./image/country.png)
 
 United States has the largest total amount of networths among all the billionaires. China comes next and Germany, India, Russia trail closely behind. 
 
 ## Industry
 
-< insert image >
+![image info](./image/wordcloud_industry.png)
 
 Real Estate, Pharmaceuticals and Investments are the industries to consider venturing into, if you ever wish to get lucky into the Forbes list. 
 
 ## Education
 
-< insert image >
+![image info](./image/education.png)
 
 Many billionaires studied Arts, Science, Business in universities back then. Some did not have university degrees too. 
 
 # Python ipynb
 Full EDA analysis on: 
+
+https://github.com/chekwei4/Forbes_Billionaire_EDA/blob/main/Forbes_Billionaire.ipynb
